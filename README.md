@@ -2,6 +2,3 @@
 
 coucou
 
-merci
-bonjour
-donne
